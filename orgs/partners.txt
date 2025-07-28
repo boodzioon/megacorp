@@ -1,3 +1,7 @@
 partner list
+<<<<<<< HEAD
 SalesInc
+=======
+
+>>>>>>> f2e6027 (F: remove partners)
 TheStartup
